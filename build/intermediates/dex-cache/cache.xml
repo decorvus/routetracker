@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_a94acf9c2d157595fb7e3fb9c0a75adcfcb7a29c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_a94acf9c2d157595fb7e3fb9c0a75adcfcb7a29c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_469197263df1abdbce82ebcd53ba0d5e67926ae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_4e36f73f27613469007bd163e532a326ebadc289.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_4e36f73f27613469007bd163e532a326ebadc289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_14b091d2fa43ebcbf688f295fd8e9783cb2010ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_469197263df1abdbce82ebcd53ba0d5e67926ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_72bb4d34757708b291a7b9c639e90f4dff3daa0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_df1abaa95d27fb74d4bbb82e1b6ed9a5a5a036b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_14b091d2fa43ebcbf688f295fd8e9783cb2010ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_2d2a891cd6157e9f93a5a3a3f42408e0642f8eb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_df1abaa95d27fb74d4bbb82e1b6ed9a5a5a036b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_62479533810e4c4586d6a02dfdb9976d2670acf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_17d4d67b72454de491e881532aa9f00d7882f392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_62479533810e4c4586d6a02dfdb9976d2670acf5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_72bb4d34757708b291a7b9c639e90f4dff3daa0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_597ee6ed46193ce63465c195c41e8a7e3ae21a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_f3936694d06dbcdbffec3a881cb3338a1bee66a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_17d4d67b72454de491e881532aa9f00d7882f392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_ef946f5876742e4a18ffbce4974c2c082006011a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_f3936694d06dbcdbffec3a881cb3338a1bee66a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_a471f4446dc085d781d9ab84221e21f5e2da7ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_0f1818ab57805056fff0a7510672f4c3895e6b54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_01708aecd5b9f9eb433cc216ffbfadd37e1da5a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_08b3fec6ef1d8172b38c38663fb4454f61613657\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_add348fef0b226d05cbfe7c1cc7d74b8565d0ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_a471f4446dc085d781d9ab84221e21f5e2da7ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_23d6074fcfac64d5a308652c6c56df74591ab6a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_5a2285ee848cc474fdb8c95e819ebddfbdedfb27.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_add348fef0b226d05cbfe7c1cc7d74b8565d0ad2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_23d6074fcfac64d5a308652c6c56df74591ab6a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_5a2285ee848cc474fdb8c95e819ebddfbdedfb27\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_01708aecd5b9f9eb433cc216ffbfadd37e1da5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_0f1818ab57805056fff0a7510672f4c3895e6b54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_597ee6ed46193ce63465c195c41e8a7e3ae21a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_260ad3829bb38fd723a89923a483601ce1a752c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_d9f6547211b88d23022bc90784f3d25d9b1782ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_08b3fec6ef1d8172b38c38663fb4454f61613657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_9b69c8212c4a0652ed192a28a7c7d1e29e8864af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_d9f6547211b88d23022bc90784f3d25d9b1782ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_260ad3829bb38fd723a89923a483601ce1a752c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_fabf300c5cd7432075a628d69f6990b66ddba6a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f8e8607fba095adee7d34ae1d0ab6aa6a7bd2957\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_9b69c8212c4a0652ed192a28a7c7d1e29e8864af\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_ab13a28721569f4d314ba4290b58a6f568818cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_5368279614e9c5dc83c0d41c00aef0e36956e3e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_cf47301e61c15e9824ac0a945d5a22fcf5db32f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_5368279614e9c5dc83c0d41c00aef0e36956e3e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_f2518e3fff13632ac34002da15503af39af75b0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_f2518e3fff13632ac34002da15503af39af75b0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_ab13a28721569f4d314ba4290b58a6f568818cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_1353c0f81ba7885e9cdc190ae5876befbcade3d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_a56350d10f8f3a3bbd7ad03fb66edbe8f1b3b45c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_bd6f00f80a8a05b77bc03139c43ab926a2240a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_985e5e31ee226a178c60d148ab4db780c401c254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_7fa70d91ccc3020a756aed18b7f878171172b545.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_985e5e31ee226a178c60d148ab4db780c401c254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_1353c0f81ba7885e9cdc190ae5876befbcade3d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_a56350d10f8f3a3bbd7ad03fb66edbe8f1b3b45c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_37d912c2bf6256c8c15552fa4d3fdb2bcb3c23b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_00c4a8a0018ff2bfc34d3ec505e6f500dfca4288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_7fa70d91ccc3020a756aed18b7f878171172b545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_e719db480537f5925ebff88fdb40072216e4851b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_fffc271465a3f30eeebe841bf916dc88234c3ddf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_bd6f00f80a8a05b77bc03139c43ab926a2240a9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_1f6c3c1a83804197fe6abf3a363bcbe2bafc79cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_37d912c2bf6256c8c15552fa4d3fdb2bcb3c23b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_e719db480537f5925ebff88fdb40072216e4851b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_af531818db213edc92763d8fc12a634d366ac2da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_c17739c4deb3559ffa306409b56db21b89c04a0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_591c601dfe18631ac65f3f9fc984654dea018f01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_591c601dfe18631ac65f3f9fc984654dea018f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_00c4a8a0018ff2bfc34d3ec505e6f500dfca4288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f8e8607fba095adee7d34ae1d0ab6aa6a7bd2957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_267d7983c35eea55e2e25b89077c5a64f6982b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_af531818db213edc92763d8fc12a634d366ac2da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_b1ac968e5eef5d827684c24c221159fc86db214c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_267d7983c35eea55e2e25b89077c5a64f6982b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_f410ceb4657ffeaeff13aab240e42b0acbe0e966\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_77f3a6f306e3c7c86ec48dbbf131e0aad6f1dba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_675ccf1d3cff367fdada8681d1100cab9c6766d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_3a13c0483466558f132d15d2da7483ade722efef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_f410ceb4657ffeaeff13aab240e42b0acbe0e966.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_675ccf1d3cff367fdada8681d1100cab9c6766d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_1f6c3c1a83804197fe6abf3a363bcbe2bafc79cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_5bf1670ea7e44dcb5d4424e0c3a9fd4a71260234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_03b621f2d160744c5b6759d33d23400d541b528b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_5406113bb676729a32f8a6980d260daae193ad85.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_3a13c0483466558f132d15d2da7483ade722efef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_5406113bb676729a32f8a6980d260daae193ad85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_b1ac968e5eef5d827684c24c221159fc86db214c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_5bf1670ea7e44dcb5d4424e0c3a9fd4a71260234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_03b621f2d160744c5b6759d33d23400d541b528b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_77f3a6f306e3c7c86ec48dbbf131e0aad6f1dba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_2a32b85ebeae34204fd8a1b658dbef0024348250\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_96374d5b6f21e9a5f7995e9da1680bd80e76c296.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_96374d5b6f21e9a5f7995e9da1680bd80e76c296\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_003fdfbcc187024e328ac75918e2de22f8e90f1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_606711018a21b77e22c3b8bc9f098a708ec068bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_ef946f5876742e4a18ffbce4974c2c082006011a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_b415b627efee5ad50cfa7f8569681b2e0f2ef52b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_0a31613d7fd64154c366eecc429199669f899345\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_2a484d95b380e31305f6b4c4af53c5a0c1e0e2ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_606711018a21b77e22c3b8bc9f098a708ec068bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_2a32b85ebeae34204fd8a1b658dbef0024348250.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_2a484d95b380e31305f6b4c4af53c5a0c1e0e2ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_8c746a762e140b1a19e7c411038aada873aaf892\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_8c746a762e140b1a19e7c411038aada873aaf892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_0a31613d7fd64154c366eecc429199669f899345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_003fdfbcc187024e328ac75918e2de22f8e90f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_2d2a891cd6157e9f93a5a3a3f42408e0642f8eb7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_5c156a58a51a81a6e4156240e045aa6052899cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_c17739c4deb3559ffa306409b56db21b89c04a0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_9c9c9e4b4ddd08d27a7897a3cb893a6cf5e797b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_b415b627efee5ad50cfa7f8569681b2e0f2ef52b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_fffc271465a3f30eeebe841bf916dc88234c3ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_5c156a58a51a81a6e4156240e045aa6052899cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_f5202a4b47ec71610944260daef291225730fd0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_2b82e12a00556cf1cb55f139ac884c520e444629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_f5202a4b47ec71610944260daef291225730fd0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_2508fc9ea171e46804d1fcbd4e78726b19384894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_9c9c9e4b4ddd08d27a7897a3cb893a6cf5e797b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_2b82e12a00556cf1cb55f139ac884c520e444629.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Corvus\AndroidStudioProjects\RouteTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_2508fc9ea171e46804d1fcbd4e78726b19384894\classes.dex" />
+    </item>
+
+</items>
